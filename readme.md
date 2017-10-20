@@ -3,8 +3,6 @@
 ### Smartpoint CRM [![Build Status](https://travis-ci.org/Bottelet/Smartpoint-crm.svg?branch=develop)](https://travis-ci.org/Bottelet/Smartpoint-crm)
 Smartpoint is a new customer relationship management system (CRM) which purpose is to help you keep track of your customers, tasks etc. Smartpoint is a free, open-source and self-hosted platform based on Laravel 5.4 PHP Framework.
 
-![page_design](https://cloud.githubusercontent.com/assets/15610490/16659700/903393ac-446b-11e6-969c-831fcd698a06.PNG)
-
 
 ## Get started
 
